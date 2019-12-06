@@ -1,0 +1,4 @@
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js
+https://www.pigno.se/barn/PIGNOSE-Calendar/dist/js/pignose.calendar.js
+https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js
